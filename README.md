@@ -10,4 +10,4 @@
 
 И кнопку закрытия книги.
 
-[Book Reader Makarov Version (Version 2 - Text and Image from URL + Field page + Close button) | Babylon.js Playground](https://playground.babylonjs.com/#VEHVGW0)
+[Book Reader Makarov Version (Version 2 - Text and Image from URL + Field page + Close button) | Babylon.js Playground](https://playground.babylonjs.com/#VEHVGW#1)
