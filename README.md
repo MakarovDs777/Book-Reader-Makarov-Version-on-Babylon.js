@@ -7,3 +7,7 @@
 Теперь добавим поле ввода для страниц.
 
 [Book Reader Makarov Version (Version 1 - Text and Image from URL + Field page) | Babylon.js Playground](https://playground.babylonjs.com/#4IL113)
+
+И кнопку закрытия книги.
+
+[Book Reader Makarov Version (Version 2 - Text and Image from URL + Field page + Close button) | Babylon.js Playground](https://playground.babylonjs.com/#VEHVGW0)
