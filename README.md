@@ -11,3 +11,7 @@
 И кнопку закрытия книги.
 
 [Book Reader Makarov Version (Version 2 - Text and Image from URL + Field page + Close button) | Babylon.js Playground](https://playground.babylonjs.com/#VEHVGW#1)
+
+И последнее сделаем табло книг что-бы было много книг а не одна.
+
+[Book Reader Makarov Version (Version 3 - Final varsion) | Babylon.js Playground](https://playground.babylonjs.com/#F4CI6L)
