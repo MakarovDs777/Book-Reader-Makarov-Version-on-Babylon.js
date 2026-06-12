@@ -14,4 +14,4 @@
 
 И последнее сделаем табло книг что-бы было много книг а не одна.
 
-[Book Reader Makarov Version (Version 3 - Final varsion) | Babylon.js Playground](https://playground.babylonjs.com/#F4CI6L#1)
+[Book Reader Makarov Version (Version 3 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#F4CI6L#1)
