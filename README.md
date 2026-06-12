@@ -1,4 +1,4 @@
-# Book-Reader-Makarov-Version-on-Babylon.js
+# Book-Makarov-Version-on-Babylon.js
 
 Не нашел - создал! Текст, и изображение по URL картинки внутри в коде всшитые.
 
