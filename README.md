@@ -15,3 +15,7 @@
 И последнее сделаем табло книг что-бы было много книг а не одна.
 
 [Book Reader Makarov Version (Version 3 - Final version) | Babylon.js Playground](https://playground.babylonjs.com/#F4CI6L#1)
+
+Сделаем RGB картинки изнутри кода.
+
+[Book Reader Makarov Version (Version 4 - RGB Image from code) | Babylon.js Playground](https://playground.babylonjs.com/#W48GV4#1)
