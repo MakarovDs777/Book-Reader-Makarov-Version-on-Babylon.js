@@ -18,4 +18,4 @@
 
 Сделаем RGB картинки изнутри кода.
 
-[Book Reader Makarov Version (Version 4 - RGB Image from code) | Babylon.js Playground](https://playground.babylonjs.com/#W48GV4#1)
+[Book Reader Makarov Version (Version 4 - RGB Image from code) | Babylon.js Playground](https://playground.babylonjs.com/#W48GV4#2)
